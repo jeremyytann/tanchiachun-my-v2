@@ -7,7 +7,23 @@ export default function Experience() {
 
       <div className="flex flex-col gap-2 md:gap-4">
         <p className="text-sm md:text-md font-light color-primary leading-8">
-          Full-Time {'\u2022'} Feb 2023 - Present
+          Full-Time {'\u2022'} Jul 2026 - Present
+        </p>
+
+        <a className="w-fit flex items-center color-secondary gap-3 hover:cursor-pointer" href="https://feedme.ai/" target="_blank" rel="noreferrer noopener" aria-label="FeedMe (opens in a new tab)" title="FeedMe">
+          <h2 className="text-lg md:text-xl font-medium color-secondary">
+            Senior Software Engineer {'\u2022'} FeedMe
+          </h2>
+
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" className="h-5 w-5" aria-hidden="true">
+            <path d="M7 17L17 7M17 7H8M17 7V16" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"/>
+          </svg>
+        </a>
+      </div>
+
+      <div className="flex flex-col gap-2 md:gap-4">
+        <p className="text-sm md:text-md font-light color-primary leading-8">
+          Full-Time {'\u2022'} Feb 2023 - Jul 2026
         </p>
 
         <a className="w-fit flex items-center color-secondary gap-3 hover:cursor-pointer" href="https://www.getright.com.my/" target="_blank" rel="noreferrer noopener" aria-label="Getright (opens in a new tab)" title="Getright">

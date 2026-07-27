@@ -7,7 +7,7 @@ export default function Introduction() {
             Tan Chia Chun
           </h1>
           <h2 className="text-lg md:text-xl font-medium color-secondary">
-            Software Developer
+            Senior Software Engineer
           </h2>
           <p className="text-md md:text-lg font-light color-primary">
             I love bringing ideas to life.
@@ -69,15 +69,13 @@ export default function Introduction() {
         </p>
 
         <p className="text-md md:text-lg font-light color-primary leading-8">
-          Currently, I'm a Software Developer 
-          at <a className="link-underline font-medium color-secondary hover:cursor-pointer" href="https://www.getright.com.my/" target="_blank" rel="noreferrer noopener" aria-label="Getright (opens in a new tab)" title="Getright">Getright</a>, 
-          where I focus on website and mobile app development, helping 
-          businesses bring their ideas to life.
+          Currently, I'm a Senior Software Engineer
+          at <a className="link-underline font-medium color-secondary hover:cursor-pointer" href="https://feedme.ai/" target="_blank" rel="noreferrer noopener" aria-label="FeedMe (opens in a new tab)" title="FeedMe">FeedMe</a>.
         </p>
 
         <p className="text-md md:text-lg font-light color-primary leading-8">
-          Over the years, I've contributed to projects across various industries—from 
-          startups to enterprise solutions—designing and developing scalable 
+          Over the years, I've contributed to projects across various industries, from 
+          startups to enterprise solutions, designing and developing scalable 
           software that enhances user engagement.
         </p>
 
@@ -85,7 +83,7 @@ export default function Introduction() {
           Beyond coding, I enjoy exploring new technologies and refining 
           digital products to create impactful experiences. 
           In my free time, you'll find me running, capturing moments through photography, 
-          and reflecting on past memories—sometimes indulging in a nostalgic 
+          and reflecting on past memories, sometimes indulging in a nostalgic 
           trip down memory lane.
         </p>
       </div>

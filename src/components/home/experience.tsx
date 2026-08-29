@@ -120,7 +120,7 @@ export default function Experience() {
           <p className="text-md md:text-lg font-light color-primary leading-8">
             {'\u2022'} Continued contributing to the Sime Darby Property App with
             greater ownership of feature delivery and technical implementation,
-            supporting property management and mall services.
+            supporting experiences across property management and mall services.
           </p>
 
           <div className="flex items-center gap-x-6 gap-y-3 flex-wrap">

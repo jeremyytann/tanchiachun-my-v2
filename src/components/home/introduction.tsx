@@ -62,8 +62,8 @@ export default function Introduction() {
 
       <div className="lg:w-[52%] flex flex-col gap-5">
         <p className="text-md md:text-lg font-light color-primary leading-8">
-          I'm a passionate software engineer with a strong focus on front-end development, 
-          dedicated to crafting seamless, high-performing digital experiences that bridge 
+          I'm a passionate software engineer with a strong focus on frontend development, 
+          dedicated to crafting seamless, high performing digital experiences that bridge 
           design and technology. I specialize in building intuitive websites and mobile 
           applications that prioritize usability, accessibility, and performance.
         </p>
@@ -82,9 +82,7 @@ export default function Introduction() {
         <p className="text-md md:text-lg font-light color-primary leading-8">
           Beyond coding, I enjoy exploring new technologies and refining 
           digital products to create impactful experiences. 
-          In my free time, you'll find me running, capturing moments through photography, 
-          and reflecting on past memories, sometimes indulging in a nostalgic 
-          trip down memory lane.
+          In my free time, you'll find me running and capturing moments through photography.
         </p>
       </div>
     </div>

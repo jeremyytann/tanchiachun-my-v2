@@ -169,10 +169,28 @@ export default function Skills() {
 
       <div className="flex flex-col gap-2 md:gap-4">
         <h2 className="text-lg md:text-xl font-medium tracking-wider color-secondary ">
-          DEVOPS & TOOLS
+          AI, DEVOPS & TOOLS
         </h2>
 
         <div className="flex gap-x-3 gap-y-3 md:gap-x-4 md:gap-y-4 flex-wrap">
+          <div className="px-4 py-1 bg-zinc-800 rounded-full">
+            <p className="text-md md:text-lg font-light color-background">
+              Claude Code
+            </p>
+          </div>
+
+          <div className="px-4 py-1 bg-zinc-800 rounded-full">
+            <p className="text-md md:text-lg font-light color-background">
+              Codex
+            </p>
+          </div>
+
+          <div className="px-4 py-1 bg-zinc-800 rounded-full">
+            <p className="text-md md:text-lg font-light color-background">
+              Cursor
+            </p>
+          </div>
+
           <div className="flex gap-2 items-center px-4 py-1 bg-zinc-800 rounded-full">
             <p className="text-md md:text-lg font-light color-background">
               GitHub
